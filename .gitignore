@@ -1,0 +1,6 @@
+# JANGAN PERNAH commit file rahasia ke repo ini.
+# did-key.json = seed DID, wallet.json = mnemonic dompet.
+did-key.json
+wallet.json
+*.zip
+__pycache__/

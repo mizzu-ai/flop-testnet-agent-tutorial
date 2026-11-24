@@ -1,0 +1,7 @@
+# Pinned to the versions verified working 24 Nov 2026.
+# NOTE: substrate-interface 1.14.* does NOT exist on PyPI (latest is 1.8.1
+# as of 24 Nov 2026) — do not "upgrade" the pin to 1.14. In 1.8.x the
+# client class is SubstrateInterface (not Substrate).
+pynacl==1.6.2
+base58==2.1.1
+substrate-interface==1.8.1
